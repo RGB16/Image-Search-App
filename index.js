@@ -9,7 +9,7 @@ let inputData="";
 let page=1;
 
 
-// ... (your variable declarations and import statements)
+
 
 async function searchImages() {
     inputData = inputE1.value;
